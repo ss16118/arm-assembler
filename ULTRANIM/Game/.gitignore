@@ -1,0 +1,16 @@
+#This is the canonical lab .gitignore file
+
+#ignore .idea files
+*.idea
+
+#ignore temp files
+*~
+
+#ignore pdf files
+*pdf
+
+#ignore junk files from compiling C code
+*.o
+
+#ignore final game file
+game
